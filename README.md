@@ -97,7 +97,7 @@ sudo apt-get install dotnet-sdk-8.0
 
 ##### Clonar o repositorio
 ```bash
-git clone https://github.com/martinhosebastiao/desafio-balta-may-the-fourth-backend.git
+git clone https://github.com/Mizaeldouglas/desafio-balta-may-the-fourth-backend.git
 cd desafio-balta-may-the-fourth-backend/StarWars.API
 ```
 
